@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Hesap Makinesi Uygulaması</string>
-    <string name="toolbar">Hesap Makinesi</string>
+    <string name="toolbar">Calculator</string>
 </resources>
